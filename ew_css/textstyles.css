@@ -156,3 +156,52 @@ body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.Style40{font-family: 'DINCondensed-Bold','DIN Condensed';
+font-size: 35px; 
+font-weight:700; 
+margin:0;
+letter-spacing: 0.08em; 
+word-wrap: break-word;}
+.Style41{font-family: 'DINCondensed-Bold','DIN Condensed';
+font-size: 30px; 
+font-weight:700; 
+letter-spacing: 0.08em; 
+word-wrap: break-word;}
+.Style42{font-family: 'DINCondensed-Bold','DIN Condensed';
+font-size: 35px; 
+font-weight:700; 
+letter-spacing: 0.08em; 
+word-wrap: break-word;}
+.linkStyle_43{font-family: 'PingFangSC-Regular','PingFang SC';
+font-size: 15px; 
+font-weight:700; 
+color: #2277FD;
+text-decoration: none; 
+/*110#2277FD#2277FD#2277FD*/
+background-color: #FEFFFF; 
+word-wrap: break-word;}
+a.linkStyle_43:visited{color:#2277FD; text-decoration:none;}
+a.linkStyle_43:hover{color:#2277FD; text-decoration:none;}
+.Style46{font-family: 'PingFangSC-Regular','PingFang SC';
+font-size: 15px; 
+font-weight:700; 
+margin:0;
+background-color: #FEFEFF; 
+word-wrap: break-word;}
+.Style47{font-family: 'PingFangSC-Regular','PingFang SC';
+font-size: 15px; 
+font-weight: 400;
+background-color: #FEFEFF; 
+word-wrap: break-word;}
+.linkStyle_48{font-family: 'PingFangSC-Regular','PingFang SC';
+font-size: 15px; 
+font-weight: 400;
+color: #2277FD;
+text-decoration: none; 
+/*110#2277FD#2277FD#2277FD*/
+background-color: #FEFEFF; 
+word-wrap: break-word;}
+a.linkStyle_48:visited{color:#2277FD; text-decoration:none;}
+a.linkStyle_48:hover{color:#2277FD; text-decoration:none;}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
