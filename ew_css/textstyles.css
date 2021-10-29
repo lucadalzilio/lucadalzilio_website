@@ -185,5 +185,31 @@ body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.Style48{font-family: 'DINCondensed-Bold','DIN Condensed';
+font-size: 35px; 
+font-weight:700; 
+font-style: italic;
+margin:0;
+letter-spacing: 0.08em; 
+word-wrap: break-word;}
+.Style49{font-family: 'DINCondensed-Bold','DIN Condensed';
+font-size: 30px; 
+font-weight:700; 
+font-style: italic;
+letter-spacing: 0.08em; 
+word-wrap: break-word;}
+.Style50{font-family: 'DINCondensed-Bold','DIN Condensed';
+font-size: 35px; 
+font-weight:700; 
+font-style: italic;
+letter-spacing: 0.08em; 
+word-wrap: break-word;}
+.Style51{font-family: 'DINCondensed-Bold','DIN Condensed';
+font-size: 34px; 
+font-weight:700; 
+font-style: italic;
+margin:0;
+letter-spacing: 0.08em; 
+word-wrap: break-word;}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
