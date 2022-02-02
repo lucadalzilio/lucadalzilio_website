@@ -239,5 +239,64 @@ background-color: #FEFFFF;
 word-wrap: break-word;}
 a.linkStyle_57:visited{color:#2277FD; text-decoration:none;}
 a.linkStyle_57:hover{color:#2277FD; text-decoration:none;}
-.animhidden{opacity: 0}
-.animvisible{opacity: 1}
+.para60{font-size: 0; text-align:left; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.Style61{font-family:  'DINCondensed-Bold', 'DIN Condensed' ;
+ font-size: 33px; 
+ font-weight:700; 
+ word-wrap: break-word;}
+.Style62{font-family:  'DINCondensed-Bold', 'DIN Condensed' ;
+ font-size: 19px; 
+ font-weight:700; 
+ word-wrap: break-word;}
+.Style63{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
+ font-size: 15px; 
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.Style64{font-family:  'PingFangTC-Semibold', 'PingFang TC' ;
+ font-size: 15px; 
+ font-weight:600; 
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_65{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
+ font-size: 15px; 
+ color: #2277FD;
+ text-decoration: none; 
+ /* 1 1 0 #2277FD #2277FD #2277FD */
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_65:visited{color:#2277FD; text-decoration:none;}
+.linkStyle_65:hover{color:#2277FD; text-decoration:none;}
+.Style68{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
+ font-size: 15px; 
+ font-style: italic;
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.para69{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style70{font-family:  'PingFangSC-Semibold', 'PingFang SC' ;
+ font-size: 15px; 
+ font-weight:600; 
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.Style71{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
+ font-size: 15px; 
+ margin:0;
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_72{font-family:  'HelveticaNeue', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 16px; 
+ margin:0;
+ color: #323232;
+ word-wrap: break-word;}
+.linkStyle_72:visited{color:#2277FD; text-decoration:none;}
+.linkStyle_72:hover{color:#2277FD; text-decoration:none;}
+.para75{font-size: 0; text-align:left; padding-bottom:7px; padding-top:4px;}
+.Style76{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
+ font-size: 15px; 
+ font-weight:700; 
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.Style77{font-family:  'DINCondensed-Bold', 'DIN Condensed' ;
+ font-size: 35px; 
+ font-weight:700; 
+ letter-spacing: 0.03em; 
+ word-wrap: break-word;}
