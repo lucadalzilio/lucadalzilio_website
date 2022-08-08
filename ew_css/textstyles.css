@@ -376,3 +376,18 @@ a.linkStyle_57:hover{color:#2277FD; text-decoration:none;}
  margin:0;
  background-color: #FEFEFF; 
  word-wrap: break-word;}
+.Style97{font-family:  'DINCondensed-Bold', 'DIN Condensed' ;
+ font-size: 25px; 
+ font-weight:700; 
+ letter-spacing: 0.03em; 
+ word-wrap: break-word;}
+.linkStyle_98{font-family:  'PingFangSC-Semibold', 'PingFang SC' ;
+ font-size: 20px; 
+ font-weight:700; 
+ color: #2277FD;
+ text-decoration: none; 
+ /* 1 1 0 #2277FD #2277FD #2277FD */
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_98:visited{color:#2277FD; text-decoration:none;}
+.linkStyle_98:hover{color:#2277FD; text-decoration:none;}
