@@ -127,3 +127,29 @@ a.outerlink{text-decoration:none}
  color: #FEFEFE;
  background-color: #000000; 
  word-wrap: break-word;}
+.Style30{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+ font-size: 27px; 
+ font-weight:700; 
+ background-color: #FEFEFE; 
+ word-wrap: break-word;}
+.Style31{font-family:  'HelveticaNeue-Thin', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 13px; 
+ font-weight:100; 
+ color: #FFFEFE;
+ background-color: #000000; 
+ word-wrap: break-word;}
+.Style32{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+ font-size: 27px; 
+ font-weight:700; 
+ background-color: #4DC2C5; 
+ word-wrap: break-word;}
+.Style33{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+ font-size: 27px; 
+ font-weight:700; 
+ background-color: #D4B47D; 
+ word-wrap: break-word;}
+.Style34{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+ font-size: 27px; 
+ font-weight:700; 
+ background-color: #D62D7E; 
+ word-wrap: break-word;}
