@@ -163,3 +163,20 @@ a.outerlink{text-decoration:none}
  color: #FFFEFE;
  background-color: #000000; 
  word-wrap: break-word;}
+.Style41{font-family:  'Helvetica-Light', 'Helvetica' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:300; 
+ color: #FFFEFE;
+ background-color: #000000; 
+ word-wrap: break-word;}
+.Style42{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+ font-size: 34px; 
+ font-weight:700; 
+ background-color: #FEFEFE; 
+ word-wrap: break-word;}
+.Style43{font-family:  'HelveticaNeue-Medium', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 14px; 
+ font-weight:500; 
+ color: #FFFEFE;
+ background-color: #000000; 
+ word-wrap: break-word;}
