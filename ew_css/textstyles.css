@@ -19,21 +19,16 @@
  background-color: #000000; 
  word-wrap: break-word;}
 .Style7{font-family:  'Helvetica-Light', 'Helvetica' ,sans-serif ;
- font-size: 36px; 
+ font-size: 30px; 
  font-weight:300; 
  color: #FFFEFE;
  background-color: #000000; 
  word-wrap: break-word;}
-.Style8{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
- font-size: 34px; 
+.para8{font-size: 0; text-align:center; padding-bottom:4px; margin-top:0px; padding-top:0px;}
+.Style9{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+ font-size: 30px; 
  font-weight:700; 
  background-color: #FEFEFE; 
- word-wrap: break-word;}
-.Style9{font-family:  'HelveticaNeue-Medium', 'Helvetica Neue' ,'Arial' ,sans-serif ;
- font-size: 14px; 
- font-weight:500; 
- color: #FFFEFE;
- background-color: #000000; 
  word-wrap: break-word;}
 .para10{font-size: 0; text-align:left; padding-bottom:11px; margin-top:0px; padding-top:0px;}
 .Style11{font-family:  'DINCondensed-Bold', 'DIN Condensed' ;
@@ -61,101 +56,83 @@
  color: #FEFEFE;
  background-color: #000000; 
  word-wrap: break-word;}
-.Style15{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
- font-size: 45px; 
- font-weight:700; 
- background-color: #FEFEFE; 
- word-wrap: break-word;}
-.Style16{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
- font-size: 45px; 
- font-weight:700; 
- background-color: #4DC2C5; 
- word-wrap: break-word;}
-.Style17{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
- font-size: 45px; 
- font-weight:700; 
- background-color: #D4B47D; 
- word-wrap: break-word;}
-.Style18{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
- font-size: 45px; 
- font-weight:700; 
- background-color: #D62D7E; 
- word-wrap: break-word;}
-.Style19{font-family:  'HelveticaNeue-Thin', 'Helvetica Neue' ,'Arial' ,sans-serif ;
- font-size: 15px; 
- font-weight:100; 
- color: #FFFEFE;
- background-color: #000000; 
- word-wrap: break-word;}
-a.outerlink{text-decoration:none}
-.animhidden{opacity: 0}
-.animvisible{opacity: 1}
-.Style23{font-family:  'Helvetica-Light', 'Helvetica' ,sans-serif ;
- font-size: 30px; 
- font-weight:300; 
- color: #FFFEFE;
- background-color: #000000; 
- word-wrap: break-word;}
-.para24{font-size: 0; text-align:center; padding-bottom:4px; margin-top:0px; padding-top:0px;}
-.Style25{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
- font-size: 30px; 
- font-weight:700; 
- background-color: #FEFEFE; 
- word-wrap: break-word;}
-.Style26{font-family:  'DINCondensed-Bold', 'DIN Condensed' ;
+.Style15{font-family:  'DINCondensed-Bold', 'DIN Condensed' ;
  font-size: 28px; 
  font-weight:700; 
  color: #FEFEFE;
  letter-spacing: 0.03em; 
  word-wrap: break-word;}
-.Style27{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
+.Style16{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
  font-size: 13px; 
  font-weight:normal; 
  color: #FEFEFE;
  background-color: #000000; 
  word-wrap: break-word;}
-.Style28{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
+.Style17{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
  font-size: 13px; 
  font-weight:700; 
  color: #FEFEFE;
  background-color: #000000; 
  word-wrap: break-word;}
-.Style29{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
+.Style18{font-family:  'PingFangSC-Regular', 'PingFang SC' ;
  font-size: 13px; 
  font-weight:700; 
  margin:0;
  color: #FEFEFE;
  background-color: #000000; 
  word-wrap: break-word;}
-.Style30{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+.Style19{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+ font-size: 45px; 
+ font-weight:700; 
+ background-color: #FEFEFE; 
+ word-wrap: break-word;}
+.Style20{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+ font-size: 45px; 
+ font-weight:700; 
+ background-color: #4DC2C5; 
+ word-wrap: break-word;}
+.Style21{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+ font-size: 45px; 
+ font-weight:700; 
+ background-color: #D4B47D; 
+ word-wrap: break-word;}
+.Style22{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+ font-size: 45px; 
+ font-weight:700; 
+ background-color: #D62D7E; 
+ word-wrap: break-word;}
+.Style23{font-family:  'HelveticaNeue-Thin', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 15px; 
+ font-weight:100; 
+ color: #FFFEFE;
+ background-color: #000000; 
+ word-wrap: break-word;}
+.Style24{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
  font-size: 27px; 
  font-weight:700; 
  background-color: #FEFEFE; 
  word-wrap: break-word;}
-.Style31{font-family:  'HelveticaNeue-Thin', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+.Style25{font-family:  'HelveticaNeue-Thin', 'Helvetica Neue' ,'Arial' ,sans-serif ;
  font-size: 13px; 
  font-weight:100; 
  color: #FFFEFE;
  background-color: #000000; 
  word-wrap: break-word;}
-.Style32{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+.Style26{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
  font-size: 27px; 
  font-weight:700; 
  background-color: #4DC2C5; 
  word-wrap: break-word;}
-.Style33{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+.Style27{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
  font-size: 27px; 
  font-weight:700; 
  background-color: #D4B47D; 
  word-wrap: break-word;}
-.Style34{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
+.Style28{font-family:  'DINAlternate-Bold', 'DIN Alternate' ;
  font-size: 27px; 
  font-weight:700; 
  background-color: #D62D7E; 
  word-wrap: break-word;}
-.Style35{font-family:  'HelveticaNeue-Medium', 'Helvetica Neue' ,'Arial' ,sans-serif ;
- font-size: 16px; 
- font-weight:500; 
- color: #FFFEFE;
- background-color: #000000; 
- word-wrap: break-word;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
